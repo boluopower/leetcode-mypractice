@@ -16,8 +16,8 @@ The result can be in any order.
 
 class Solution:
     """
-    Time: O(1)
-    Space:O(1)
+    Time: O()
+    Space:O()
     """
 
     def intersection(self, nums1, nums2):
